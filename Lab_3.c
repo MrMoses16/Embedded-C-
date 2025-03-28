@@ -1,5 +1,5 @@
-// The following code is from lab 1 part 5
-// This code compliments everything learned in lab 1 and is based on the 
+// The following code is from lab 3 part 3
+// This code compliments everything learned in lab 3 and is based on the 
 // performance of the MSP demonstrated in the following YouTube videos: 
 // Pulse Repeater: https://youtu.be/ZJux_cjxh30
 
