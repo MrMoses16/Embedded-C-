@@ -1,7 +1,7 @@
 // The following code is from lab 8 part 3
 // This code compliments everything learned in lab 7 and is based on the 
 // performance of the MSP demonstrated in the following YouTube video: 
-// UART: https://youtu.be/lqh7on4SMoU
+// ADC: https://youtu.be/lqh7on4SMoU
 
 #include "intrinsics.h"
 #include "msp430fr6989.h"
