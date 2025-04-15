@@ -1,8 +1,8 @@
-// The following code is from lab 7 part 4
+// The following code is from lab 7 part 2
 // This code compliments I2C communication between the MSP430 and
 // its booster pack. The MSP uses I2C to read the lux value recorded
 // by the light sensor in the booster pack and sends the data to the
-// connected computers UART port using UART communication
+// connected computers UART port using UART communication.
 
 #include "intrinsics.h"
 #include "msp430fr6989.h"
